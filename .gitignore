@@ -13,3 +13,7 @@ __pycache__/
 # Other
 .pytest_cache/
 app.log
+# Docker data volumes
+postgres_data/
+pgadmin_data/
+*.db
