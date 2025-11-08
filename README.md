@@ -50,7 +50,7 @@ You can run the unit and integration tests on your local machine.
 The CI/CD pipeline automatically builds and pushes the Docker image for this project to Docker Hub.
 
 You can find the repository here:
-**[https://hub.docker.com/r/sm3777-max/module10-fastapi-secure](https://hub.docker.com/r/sm3777-max/module10-fastapi-secure)**
+**[https://hub.docker.com/r/sm3777/module10-fastapi-secure](https://hub.docker.com/r/sm3777/module10-fastapi-secure)**
 
 ---
 
